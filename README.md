@@ -4,7 +4,7 @@ I hold a M.S in Analytics (Data Science) from the University of Chicago and a B.
 
 Please take a look at my projects below, and don't hesitate to reach out if you're interested in collaborating or discussing potential opportunities.
 
-email: [ylfeng8598@gmail.com](ylfeng8598@gmail.com)
+email: <ylfeng8598@gmail.com>
 
 linkedin: [linkedin.com/in/melody-yen-lin-feng-508167140/](https://www.linkedin.com/in/melody-yen-lin-feng-508167140/)
 
