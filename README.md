@@ -1,10 +1,8 @@
-## Hi there I'm Melody (Yen-Lin) Feng 👋
+## Hi there I'm Melody Feng 👋
 
 I hold a M.S in Analytics (Data Science) from the University of Chicago and a B.S in Information Systems and Marketing from the University of Illinois Urbana - Champaign. With a background in business and analytics, I leverage data-driven insights to tell compelling stories and drive strategic decisions, transforming complex data into actionable information to enhance business outcomes.
 
 Please take a look at my projects below, and don't hesitate to reach out if you're interested in collaborating or discussing potential opportunities.
-
-email: <ylfeng8598@gmail.com>
 
 linkedin: [linkedin.com/in/melody-yen-lin-feng-508167140/](https://www.linkedin.com/in/melody-yen-lin-feng-508167140/)
 
